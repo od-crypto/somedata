@@ -72,6 +72,8 @@
             "https://raw.githubusercontent.com/od-crypto/somedata/master/img/russia_nimengskoe_s2cloudless_2018.jpg"],
      "broken_task2": [
             "https://raw.githubusercontent.com/od-crypto/somedata/master/img/uzbekistan_korabulok_s2cloudless_2016.jpghttps://raw.githubusercontent.com/od-crypto/somedata/master/img/russia_kubenskoye_s2cloudless_2016.jpg",
-            "https://raw.githubusercontent.com/od-crypto/somedata/master/img/russia_gilevskoye_reservoir_s2cloudless_2016.jpghttps://raw.githubusercontent.com/od-crypto/somedata/master/img/russia_batkovsko-olhovskiye_s2cloudless_2017.jpg"]
+            "https://raw.githubusercontent.com/od-crypto/somedata/master/img/russia_gilevskoye_reservoir_s2cloudless_2016.jpghttps://raw.githubusercontent.com/od-crypto/somedata/master/img/russia_batkovsko-olhovskiye_s2cloudless_2017.jpg"],
+    "task1_file": "https://raw.githubusercontent.com/od-crypto/somedata/master/toloka_results/assignments_from_pool_16397010__10-09-2020_accepted.tsv",
+    "task2_file": "https://raw.githubusercontent.com/od-crypto/somedata/master/toloka_results/assignments_from_pool_16483821__15-09-2020_check_29.tsv"
 }
 
